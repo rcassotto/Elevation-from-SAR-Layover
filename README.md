@@ -8,7 +8,8 @@ It is recommended to execute from within a dedicated python environment, such as
 - argarse
 
 
-File Description:
+
+### _File Description_
 - SAR_Layover_revXX.py: main python script to perform the calculations
 - input_SAR_layover_test.txt: text file containing the input parameters/pathways to relevant files. Users should modify the input statements for their application.  
 - inputs.zip: zip file containing the relevant Sentinel-1 RTC images necessary to run the script. 
