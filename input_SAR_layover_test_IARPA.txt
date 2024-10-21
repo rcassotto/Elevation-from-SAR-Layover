@@ -1,3 +1,0 @@
-{"sigma_file_loc": '/data/Projects/IARPA/IARPA_demo/Layover/inputs/',
- "out_dir": '/data/Projects/IARPA/IARPA_demo/Layover/outputs/',
- "building_footprint_directory": '/data/Projects/IARPA/IARPA_demo/Layover/Building_outlines/'}
