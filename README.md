@@ -20,6 +20,7 @@ It is recommended to execute from within a dedicated python environment, such as
 - Range Terrain Corrected (RTC) Sigma0 images; the samples were generated using the Sentinel-1 Toolbox (SNAP)
 - SNAP generated incidence angle files corresponding to the RTC Sigma0 images.
 - SNAP generated '*dim' text file containing critical metadata.
+<br/>
 
 ### _Outputs_
 - Geotiff for each Sigma0 image in the input directory.  The geotiffs contain the buildling outlines set at the calcualted buidling height. One Geotiff will be created with all the building outlines and elevations that are included in the building outlines directory. 
