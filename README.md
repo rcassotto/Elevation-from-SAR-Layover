@@ -6,14 +6,14 @@ It is recommended to execute from within a dedicated python environment, such as
 - rasterio
 - numpy
 - argarse
-
+<br/>
 
 
 ### _File Description_
 - SAR_Layover_revXX.py: main python script to perform the calculations
 - input_SAR_layover_test.txt: text file containing the input parameters/pathways to relevant files. Users should modify the input statements for their application.  
 - inputs.zip: zip file containing the relevant Sentinel-1 RTC images necessary to run the script. 
-
+<br/>
 
 ### _Inputs_
 - Building outlines with Bing-dervived building outlines
@@ -22,8 +22,10 @@ It is recommended to execute from within a dedicated python environment, such as
 - SNAP generated '*dim' text file containing critical metadata.
 <br/>
 
+
 ### _Outputs_
 - Geotiff for each Sigma0 image in the input directory.  The geotiffs contain the buildling outlines set at the calcualted buidling height. One Geotiff will be created with all the building outlines and elevations that are included in the building outlines directory. 
+<br/>
 
 
 ### To execute:
