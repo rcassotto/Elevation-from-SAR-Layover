@@ -2,7 +2,7 @@
 
 It is recommended to execute from within a dedicated python environment, such as conda. 
 
-**<u>Python dependencies<u>**
+**<u>Python dependencies</u>**
 - rasterio
 - numpy
 - argarse
